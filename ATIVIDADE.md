@@ -1,13 +1,13 @@
-# Titulo
+# Titulo.
 
-## Subtitulo
+## Subtitulo.
 
-* Item1
+* Item1.
 
-* Item2
+* Item2.
 
 ```py
 
-print("Bloco de Codigo")
+print("Bloco de Codigo.")
 
 ```
